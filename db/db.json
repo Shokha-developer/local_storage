@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": 0.04836737805639291,
+      "email": "dsarifkulo021@gmail.com",
+      "name": "Daler",
+      "surname": "Sharifkulov",
+      "password": "2232"
+    },
+    {
+      "id": 0.04836737801232133,
+      "email": "sabina@gmail.com",
+      "name": "sabina",
+      "surname": "Adams",
+      "password": "1234"
+    },
+    {
+      "id": 0.825096057121744,
+      "email": "shokhaakramov@gmail.com",
+      "name": "Shokhrukh",
+      "surname": "Akramov",
+      "password": "1551"
+    },
+    {
+      "id": 0.942710610262516,
+      "email": "admin@gigy.app",
+      "name": "Daler",
+      "surname": "Daler",
+      "password": "1233"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "userid": 0.04836737805639291,
+      "name": "VISA",
+      "currency": "EURO",
+      "pincode": 7777,
+      "total": 20000
+    },
+    {
+      "id": 2,
+      "userid": 0.825096057121744,
+      "name": "Mastercard",
+      "currency": "USD",
+      "pincode": 9999,
+      "total": 30000
+    },
+    {
+      "id": 0.1850342719103819,
+      "userid": 0.04836737801232133,
+      "name": "ALISHER",
+      "currency": "ISK",
+      "pincode": "1111",
+      "total": "12"
+    },
+    {
+      "id": 0.7263922671011869,
+      "userid": 0.04836737801232133,
+      "name": "ALISH2",
+      "currency": "EUR",
+      "pincode": "2222",
+      "total": "2213231"
+    },
+    {
+      "id": 0.6673653766978769,
+      "userid": 0.825096057121744,
+      "name": "revolut",
+      "currency": "GBP",
+      "pincode": "3111",
+      "total": "1500"
+    }
+  ],
+  "transactions": [
+    {
+      "userid": 0.825096057121744,
+      "id": 0.825048767121254,
+      "name": "Mastercard",
+      "total": 100,
+      "category": "car",
+      "date": "24.10.22"
+    },
+    {
+      "id": 0.2903521850571038,
+      "userid": 0.825096057121744,
+      "name": "Mastercard",
+      "date": "2022.10.28",
+      "total": "1500",
+      "category": "iphone"
+    }
+  ]
+}
